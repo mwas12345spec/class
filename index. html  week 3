@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Portfolio </title>
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+
+<body>
+
+<header>
+    <h1>My  Portfolio</h1>
+
+
+<section id="about">
+    <h2>About This  Portfolio</h2>
+    <p>
+        This portfolio demonstrates my understanding of the Command Line Interface (CLI) 
+        and Git version control. The project was created entirely using terminal commands
+        and includes Git branching, merging, and professional documentation.
+    </p>
+</section>
+
+<section id="features">
+    <h2>Portfolio Features</h2>
+    <ul>
+        <li>Responsive HTML layout</li>
+        <li>Clean project structure</li>
+        <li>Git version control with meaningful commits</li>
+        <li>Branching and merging workflow</li>
+        <li>Terminal command documentation</li>
+    </ul>
+</section>
+
+<section id="technologies">
+    <h2>Technologies Used</h2>
+    <ul>
+        <li>HTML5</li>
+        <li>CSS3</li>
+        <li>Command Line Interface (CLI)</li>
+        <li>Git</li>
+        <li>GitHub</li>
+    </ul>
+</section>
+
+<section id="structure">
+    <h2> My portfolio Structure</h2>
+
+<pre>
+my-portfolio/
+│
+├── src/
+│   ├── css/
+│   │   └── styles.css
+│   │
+│   ├── js/
+│   │   └── main.js
+│   │
+│   └── images/
+│
+├── docs/
+│   └── terminal-log.md
+│
+├── tests/
+│
+├── README.md
+└── index.html
+</pre>
+
+</section>
+
+<section id="learning">
+    <h2>What I Learned</h2>
+
+    <ul>
+        <li>How to navigate directories using CLI commands</li>
+        <li>Creating, copying, moving, and deleting files via terminal</li>
+        <li>Using commands like <code>find</code>, <code>grep</code>, and <code>wc</code></li>
+        <li>Initializing Git repositories</li>
+        <li>Creating commits with meaningful messages</li>
+        <li>Working with branches and merging them</li>
+        <li>Connecting local repositories to GitHub</li>
+        <li>Writing a professional README file</li>
+    </ul>
+
+</section>
+
+<section id="+254796530460">
+
+    <p>Email: maddisonkiarie@gmail.com</p>
+    <p>GitHub: <a href="https://github.com/mwas12345spec">github.com/mwas12345spec</a></p>
+
+</section>
+
+<footer>
+    <p>© 2026  Portfolio </p>
+</footer>
+
+</body>
+</html>
